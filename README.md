@@ -7,7 +7,7 @@ Github : https://github.com/kts10505
 
 # 경력
 
-[Joara](https://joara.com)
+[Joara](http://www.joara.com/main.html)
 
 - 2018/01/02 ~ now
 
